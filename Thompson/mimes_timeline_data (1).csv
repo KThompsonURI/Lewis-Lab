@@ -1,0 +1,20 @@
+Category,Dataset,Type (Geometry),Time Series,start_year,end_year
+Biophysical,280 fathom contour,Polyline,2015,2015,2015
+Biophysical,Beach Nourishment,Point,1920-2022,1920,2022
+Boundaries,EPA Regional Boundaries,Polygon,2019,2019,2019
+Boundaries,Federal Consistency Location Descriptions,Polygon,2018,2018,2018
+Boundaries,Federal Sand and Gravel Borrow Areas,Polygon,2018,2018,2018
+Boundaries,MPAs,Polygon,2022,2022,2022
+Boundaries,NERRs,Polygon,2022,2022,2022
+Boundaries,National Parks,Polygon,2016,2016,2016
+Boundaries,Protected Areas,Polygon,2018,2018,2018
+Boundaries,Restoration Project areas,Polygon,2015,2015,2015
+Boundaries,Stellwagen Bank NMS,Polygon,2018,2018,2018
+Boundaries,US Coast Guard Districts,Polygon,2018,2018,2018
+Boundaries,USACE Districts,Polygon,2018,2018,2018
+Ecological,Consumption Rates for Species,Table,2009,2009,2009
+Ecological,Initial Stocks for Biomass of Species,Table,2009,2009,2009
+Ecological,North Atlantic Right Whale Number,Point,2022,2022,2022
+Social,Census Demographics,Counties,1920-2019,1920,2019
+Social,Census Geographies,Counties,2022,2022,2022
+Social,NAICS,Database,2023,2023,2023
